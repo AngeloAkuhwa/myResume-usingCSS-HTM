@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.exe
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.deps.json
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.runtimeconfig.json
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.dll
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\bin\Debug\netcoreapp3.1\PrintMyName.pdb
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.AssemblyInfo.cs
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.dll
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.pdb
+C:\Users\hp\source\repos\PrintMyName\PrintMyName\obj\Debug\netcoreapp3.1\PrintMyName.genruntimeconfig.cache

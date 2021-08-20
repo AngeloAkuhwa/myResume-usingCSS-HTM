@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4yxOtg8jI9EL/+5iRNp9sUi+N32NoNZcR6+WsX2nVDyS7JZafZNVVFSC9HvLxRDWbmvzaWlucR52Tgmz1+CuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\PrintMyName\\PrintMyName\\PrintMyName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
